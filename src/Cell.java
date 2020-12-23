@@ -1,7 +1,7 @@
 
-public class Module {
+public class Cell {
 
-	public Module() {
+	public Cell() {
 		// TODO Auto-generated constructor stub
 	}
 
